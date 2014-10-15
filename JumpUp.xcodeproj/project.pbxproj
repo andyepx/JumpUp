@@ -14,6 +14,7 @@
 		267D068719E926BC00141365 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 267D068519E926BC00141365 /* Main.storyboard */; };
 		267D068919E926BC00141365 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 267D068819E926BC00141365 /* Images.xcassets */; };
 		267D069519E926BD00141365 /* JumpUpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267D069419E926BD00141365 /* JumpUpTests.swift */; };
+		267D06A119E928EC00141365 /* BrainFlowerEuro.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 267D06A019E928EC00141365 /* BrainFlowerEuro.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		267D068E19E926BD00141365 /* JumpUpTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JumpUpTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		267D069319E926BD00141365 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		267D069419E926BD00141365 /* JumpUpTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpUpTests.swift; sourceTree = "<group>"; };
+		267D06A019E928EC00141365 /* BrainFlowerEuro.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BrainFlowerEuro.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		267D066F19E926BC00141365 = {
 			isa = PBXGroup;
 			children = (
+				267D06A019E928EC00141365 /* BrainFlowerEuro.ttf */,
 				267D067A19E926BC00141365 /* JumpUp */,
 				267D069119E926BD00141365 /* JumpUpTests */,
 				267D067919E926BC00141365 /* Products */,
@@ -195,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				267D06A119E928EC00141365 /* BrainFlowerEuro.ttf in Resources */,
 				267D068919E926BC00141365 /* Images.xcassets in Resources */,
 				267D068019E926BC00141365 /* GameScene.sks in Resources */,
 				267D068719E926BC00141365 /* Main.storyboard in Resources */,
@@ -405,6 +409,7 @@
 				267D069A19E926BD00141365 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		267D069B19E926BD00141365 /* Build configuration list for PBXNativeTarget "JumpUpTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				267D069D19E926BD00141365 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
