@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C5F9B70-B95C-4797-97B9-71310665EA3B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JumpUp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>65153FA89710B69B283464AA9E9F2FF40E3B7B52</key>
+		<string>https://github.com/andyepx/JumpUp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JumpUp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>65153FA89710B69B283464AA9E9F2FF40E3B7B52</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/andyepx/JumpUp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>65153FA89710B69B283464AA9E9F2FF40E3B7B52</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65153FA89710B69B283464AA9E9F2FF40E3B7B52</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JumpUp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
